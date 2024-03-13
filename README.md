@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Neo4j Cypher**
 
-- 👯 I’m looking to collaborate on **php/nodejs projects**
+- 👯 I’m looking to collaborate on **php/nodejs/java or ML projects**
 
 - 📫 How to reach me **oc90699@gmail.com** || <a href="https://uvitechgh.com" target="blank">UviTech Inc.</a>
 
