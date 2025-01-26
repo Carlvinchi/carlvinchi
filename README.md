@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlvinchi" alt="carlvinchi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/confidenceantwi" target="blank"><img src="https://img.shields.io/twitter/follow/confidenceantwi?logo=twitter&style=for-the-badge" alt="confidenceantwi" /></a> </p>
-<p><img align="right" alt="Coding" width="400" src="https://pixabay.com/illustrations/developer-programmer-coding-8764522"/></p>
+<p><img align="right" alt="Coding" width="400" src="https://pixabay.com/get/g751c3b933bf5fa9de74246c7fdbc6fb7c96b872fd43df7387ef0a621a8955fe6fa0dda68241435cee59507803fc6fa99ebf6e9d6043889462ad36af628a7eb11_1280.jpg"/></p>
 
 - 🔭 I’m currently doing **Master's in Computer Science**
 
@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlvinchi&show_icons=true&locale=en" alt="carlvinchi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlvinchi&" alt="carlvinchi" /></p>
+
